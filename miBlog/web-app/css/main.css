@@ -1,0 +1,189 @@
+html {
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: #cd0512;
+    font-style: oblique;
+    font-family: serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+h2 {
+    margin-top: 65px;
+    margin-left: 200px;
+    font-style: italic;
+    font-family: serif;
+    font-size: 46px;
+    color: #cd0512;
+}
+
+#hd {
+    position: relative;
+    height: 60px;
+    background-image: url(../images/Dark-Tablet-Background.jpg);
+    background-repeat: repeat-x;
+    border-bottom-style: outset;
+    border-bottom-width: 3px;
+    border-bottom-color: #ff0000;
+}
+
+#botones {
+    position: absolute;
+    top: 9px;
+    left: 4px;
+}
+
+#menu {
+    position: absolute;
+    bottom: 2px;
+    left: 500px;
+
+}
+
+#bd {
+    height: 900px;
+    position: relative;
+    margin-top: 0px;
+    border-bottom: outset 2px #545752;
+    border-left: outset 2px #545752;
+    border-right: outset 2px #545752;
+    background-color: grey;
+}
+
+#internal {
+    margin: 10px;
+    border: outset 2px #545752;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #232322;
+}
+
+#contenido {
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+#tituloTema {
+    color: #ff0000;
+    padding-bottom: 5px;
+    padding-top: 0px;
+    margin-bottom: 15px;
+    border-bottom: solid 2px #545752;
+    font-size: 25px;
+
+}
+
+#fechaTema {
+    padding: 5px;
+    float: left;
+    border: solid 2px #545752;
+    margin-right: 45px;
+    color: black;
+    text-align: center;
+    background: gray;
+}
+
+.clear {
+    clear: left;
+}
+
+p {
+    text-align: justify;
+}
+
+.boton {
+    padding: 8px;
+    float: left;
+    margin-left: 5px;
+}
+
+#fotocv {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 120px;
+    border: solid 2px #545752;
+}
+
+#bienvenida {
+    padding: 6px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 60px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #545752;
+    font-size: 24px;
+    color: #ff0000;
+}
+
+#bienvenidaText {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#personal {
+    padding: 6px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #545752;
+    font-size: 24px;
+    color: #ff0000;
+}
+
+#personalText {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    color: #ffffff;
+    font-size: 20px;
+
+}
+
+#experiencia {
+    padding: 6px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #545752;
+    font-size: 24px;
+    color: #ff0000;
+}
+
+#experienciaText {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    color: #ffffff;
+    font-size: 20px;
+
+}
+
+#correo {
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.etiquetasCorreo{
+    margin-right:5px;
+}
+
+
+
+
