@@ -4,6 +4,6 @@
 
 </head>
 <body>  
- <g:render template="contenidoTemplate" collection="${cont}" var="cont"/>
+ <g:render template="contenidoTemplate" bean="${cont}"/>
 </body>
 </html>

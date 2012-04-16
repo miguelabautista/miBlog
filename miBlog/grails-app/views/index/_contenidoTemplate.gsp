@@ -1,8 +1,8 @@
 <div id="contenido"> 
   <p id="fechaTema">
-  <pomo:shortDate date="${cont.dateCreated}"/>
+  <pomo:shortDate date="${new java.util.Date()}"/>
 </p>
-<div id="tituloTema">${cont.titulo}</div>
-<div class="clear">${cont.contenido}</div>
+<div id="tituloTema">Bienvenido</div>
+<div class="clear">En Construccion</div>
 <p></p>   
 </div>
